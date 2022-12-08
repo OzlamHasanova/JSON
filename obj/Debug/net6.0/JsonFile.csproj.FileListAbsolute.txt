@@ -1,0 +1,17 @@
+C:\Users\ClassTime\source\repos\JsonFile\obj\Debug\net6.0\JsonFile.csproj.AssemblyReference.cache
+C:\Users\ClassTime\source\repos\JsonFile\obj\Debug\net6.0\JsonFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\source\repos\JsonFile\obj\Debug\net6.0\JsonFile.AssemblyInfoInputs.cache
+C:\Users\ClassTime\source\repos\JsonFile\obj\Debug\net6.0\JsonFile.AssemblyInfo.cs
+C:\Users\ClassTime\source\repos\JsonFile\obj\Debug\net6.0\JsonFile.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\source\repos\JsonFile\bin\Debug\net6.0\JsonFile.exe
+C:\Users\ClassTime\source\repos\JsonFile\bin\Debug\net6.0\JsonFile.deps.json
+C:\Users\ClassTime\source\repos\JsonFile\bin\Debug\net6.0\JsonFile.runtimeconfig.json
+C:\Users\ClassTime\source\repos\JsonFile\bin\Debug\net6.0\JsonFile.dll
+C:\Users\ClassTime\source\repos\JsonFile\bin\Debug\net6.0\JsonFile.pdb
+C:\Users\ClassTime\source\repos\JsonFile\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ClassTime\source\repos\JsonFile\obj\Debug\net6.0\JsonFile.csproj.CopyComplete
+C:\Users\ClassTime\source\repos\JsonFile\obj\Debug\net6.0\JsonFile.dll
+C:\Users\ClassTime\source\repos\JsonFile\obj\Debug\net6.0\refint\JsonFile.dll
+C:\Users\ClassTime\source\repos\JsonFile\obj\Debug\net6.0\JsonFile.pdb
+C:\Users\ClassTime\source\repos\JsonFile\obj\Debug\net6.0\JsonFile.genruntimeconfig.cache
+C:\Users\ClassTime\source\repos\JsonFile\obj\Debug\net6.0\ref\JsonFile.dll
